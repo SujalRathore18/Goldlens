@@ -1,0 +1,11 @@
+{
+  "name": "goldlens",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "install:web": "npm --prefix web install",
+    "dev": "npm --prefix web run dev",
+    "build": "npm --prefix web run build",
+    "lint": "npm --prefix web run lint"
+  }
+}

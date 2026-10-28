@@ -1,0 +1,12 @@
+node_modules/
+web/dist/
+backend/.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.log
+data/uploads/
+web/tsconfig.tsbuildinfo
+desktop.ini

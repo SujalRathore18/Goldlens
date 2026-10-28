@@ -1,0 +1,44 @@
+{
+  "contracts": [
+    {
+      "symbol": "GOLDM",
+      "fineness": 995,
+      "tender_start": "2026-08-20",
+      "tender_start_source": "organizer PS 03 table",
+      "tender_start_verified": false,
+      "verified": false,
+      "source": "organizer PS 03 table",
+      "checked_at": null
+    },
+    {
+      "symbol": "GOLDTEN",
+      "fineness": 999,
+      "tender_start": "2026-08-20",
+      "tender_start_source": "organizer PS 03 table",
+      "tender_start_verified": false,
+      "verified": false,
+      "source": "organizer PS 03 table",
+      "checked_at": null
+    },
+    {
+      "symbol": "GOLDGUINEA",
+      "fineness": 999,
+      "tender_start": "2026-08-20",
+      "tender_start_source": "organizer PS 03 table",
+      "tender_start_verified": false,
+      "verified": false,
+      "source": "organizer PS 03 table",
+      "checked_at": null
+    },
+    {
+      "symbol": "GOLDPETAL",
+      "fineness": 999,
+      "tender_start": "2026-08-20",
+      "tender_start_source": "organizer PS 03 table",
+      "tender_start_verified": false,
+      "verified": false,
+      "source": "organizer PS 03 table",
+      "checked_at": null
+    }
+  ]
+}
